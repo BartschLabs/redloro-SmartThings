@@ -12,7 +12,7 @@
  *  on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License
  *  for the specific language governing permissions and limitations under the License.
  *
- *  2017-12-26 Bartsch Labs: Added bass and treble based on tcjennings' Russound DH & adjusted for a 15 value range
+ *  2017-12-26  Bartsch Labs: Added bass and treble based on tcjennings' Russound DH & adjusted for a 15 value range
  */
 metadata {
   definition (name: "MPR6Z Zone - bass & treble", namespace: "redloro-smartthings", author: "tcjennings@hotmail.com") {
